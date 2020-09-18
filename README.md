@@ -10,4 +10,4 @@ During the entire month of October 2020, all you have to do is contribute to any
 
 - [Hacktoberfest-2020 Good First issue](https://github.com/Py-Contributors/Hacktoberfest-2020)
 
-## Create A PR and add Open-source Repisotry for beginner here in list.
+## Create A PR and add Open-source Repisotry for beginner here in list below the last.
